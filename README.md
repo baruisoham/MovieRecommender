@@ -4,6 +4,8 @@ Dataset taken from Kaggle
 
 # Initialisation & Running
 
+extract `tmdb_5000_credits.zip` first. It was zipped as GitHub doesn't allow files larger than 25MB.
+
 Run the `Analysis code.ipynb` first. This will pickle dump some stuff
 
 (I used python 3.12.1)
