@@ -6,7 +6,7 @@ Dataset taken from Kaggle
 
 Run the `Analysis code.ipynb` first. This will pickle dump some stuff
 
-(I used 3.12.1)
+(I used python 3.12.1)
 Please create a virtual environment (venv) in your folder and then to install streamlit.
 Then in your terminal,
 install `pip install streamlit`
