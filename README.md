@@ -13,5 +13,6 @@ Please create a virtual environment (venv) in your folder and then to install st
 Then in your terminal,
 install `pip install streamlit`
 run `streamlit run app.py`
+or `python -m streamlit run app.py`
 
 Click on the address given in your terminal, or streamlit might automatically open
