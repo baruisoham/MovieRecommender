@@ -1,5 +1,5 @@
 # MovieRecommender
-Recommends movies from TMDB top 5000
+Recommends movies from TMDB top 5000. Uses content based recommender system.
 Dataset taken from Kaggle
 
 # Initialisation & Running
