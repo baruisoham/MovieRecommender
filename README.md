@@ -15,4 +15,8 @@ install `pip install streamlit`
 run `streamlit run app.py`
 or `python -m streamlit run app.py`
 
+To run the improved GUI:
+run `streamlit run app_final.py`
+or `python -m streamlit run app_final.py`
+
 Click on the address given in your terminal, or streamlit might automatically open
